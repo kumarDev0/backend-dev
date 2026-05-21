@@ -1,0 +1,28 @@
+
+// Difference between common js modules and ES6 module
+
+common js module //
+- synchronous file loading
+- File Extension optional
+- If you give full file path then we can load any file using cjs
+- it is convention to add cjs in the file extension
+- how to use => const timer = require('./timer.js)
+- we have to set "type":"common-js" in package.json because common js is the default module system in node js
+- in cjs this keyword points to module.exports by default
+- top level await are not allowed
+- only one value are export  
+- strict mode is not enable by default 
+
+
+ES6 Modules
+- Asynchronous file loading
+- file extension mandatory
+- we can not load any file , only js and mjs files are allowed
+- how to use => import timer from './timer.js
+- we have to set "type":"module" in package.json
+- in mjs this keyword is undefined 
+- top level await allowed
+- multiple value can be export
+- strict mode is enabled by default 
+
+
