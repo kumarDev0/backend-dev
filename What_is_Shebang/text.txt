@@ -1,0 +1,29 @@
+// What is Shebang
+- isi ko kabhi kabhi hashbang bhi kehte hai 
+
+ye hame smjhna hoga kyuki jo npx aur npm hota hai ye dono chij behind the scene 
+shebang ka use karte hai ye jo concept hai ye ek tarah ka command line ka 
+concept hai ye terminal ka concept hai 
+
+ye basically unix based operating system ke liye shebang kaam karta hai 
+jaise ki ye hamre bash terminal me kaam karega cmd aur powershell me kaam nhi krega
+
+ab hum dekhte hai shebang kya hai aur e bahut important hai 
+
+#!node (./ app.js karo aur file run hogi , #!node isko first top line pe rakho ye sirf windows me by defalut kaam karta hai)
+
+// ab hum ek aisa option dekhenge jaha windows and linux dono me kaam kare 
+socho jab hum ENV apne terminal me run karte hai toh ek path aata hai 
+(/usr/bin/env) name ka isko kasie dekhe terminal se (which env likho aapko dikh jaega)
+
+ab is path ke sath jab aap node likhoge toh node run ho jata hai 
+1. (/usr/bin/env node)
+2 . env node - isse bhi node run ho jaega 
+
+ab hum Shebang ko isi concept se node ko run karenge 
+ #!/usr/bin/env node (ab ye windows and linux dono me kaam krega)
+
+test karne ke liye app.js file me ye path sabse upar set karo aur niche apna code likho
+
+-open terminal (./app.js , bash app.js)
+ ye two command ye file ko run kar dega 
