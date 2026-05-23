@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "abc": "vite"
+  },
+  "type": "module"
+}
