@@ -1,0 +1,19 @@
+{
+  "name": "sumo-search",
+  "version": "1.0.0",
+  "description": "A CLI tool to count and search words in files",
+  "main": "app.js",
+  "bin": {
+    "sumo-search": "app.js"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "word-counter",
+    "search",
+    "terminal",
+    "sumo-search"
+  ],
+  "author": "KumarDev0",
+  "license": "ISC"
+}
