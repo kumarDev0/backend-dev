@@ -1,0 +1,22 @@
+{
+  "name": "black-terminal-greenchat",
+  "version": "1.0.0",
+  "description": "A simple real-time chat tool for your terminal using only Node.js built-in modules.",
+  "main": "chat.js",
+  "bin": {
+    "black-terminal-greenchat": "./chat.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "keywords": [
+    "terminal",
+    "chat",
+    "cli",
+    "real-time"
+  ],
+  "author": "kumarDev0",
+  "license": "ISC"
+}
+
