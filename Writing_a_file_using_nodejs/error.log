@@ -1,0 +1,15 @@
+
+
+1:36:04 pm
+ENOENT: no such file or directory, open 'C:\Users\VILLAN\OneDrive\Desktop\backend-dev\Writing_a_file_using_nodejs\ima.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\VILLAN\OneDrive\Desktop\backend-dev\Writing_a_file_using_nodejs\ima.jpg'
+    at async open (node:internal/fs/promises:637:25)
+    at async readFile (node:internal/fs/promises:1269:14)
+    at async file:///C:/Users/VILLAN/OneDrive/Desktop/backend-dev/Writing_a_file_using_nodejs/app.js:41:20
+
+1:36:26 pm
+ENOENT: no such file or directory, open 'C:\Users\VILLAN\OneDrive\Desktop\backend-dev\Writing_a_file_using_nodejs\ima.jpg'
+Error: ENOENT: no such file or directory, open 'C:\Users\VILLAN\OneDrive\Desktop\backend-dev\Writing_a_file_using_nodejs\ima.jpg'
+    at async open (node:internal/fs/promises:637:25)
+    at async readFile (node:internal/fs/promises:1269:14)
+    at async file:///C:/Users/VILLAN/OneDrive/Desktop/backend-dev/Writing_a_file_using_nodejs/app.js:41:20
