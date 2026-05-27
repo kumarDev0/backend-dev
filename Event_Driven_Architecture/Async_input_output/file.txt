@@ -1,0 +1,8 @@
+Node.js is a single-threaded , even-driven , non-blocking,
+asynchronous I/O runtime that allows developers to build scalabe and
+high-performance application, particularly suited for I/O-bound
+tasks such as file handling and network requests.
+
+if i want to multi-threding using nodejs 
+
+- what is the meaning of non-blocking
