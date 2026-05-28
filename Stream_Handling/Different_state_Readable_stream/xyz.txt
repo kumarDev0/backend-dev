@@ -1,0 +1,16 @@
+ABCD
+EFGH
+IJKL
+MNOP
+QRST
+UVWX
+YZab
+cdef
+ghij
+klmn
+opqr
+stuv
+wxyz
+0123
+4567
+89+/
